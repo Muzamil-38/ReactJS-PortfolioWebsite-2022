@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.be367c33.css",
+    "main.js": "/portfolio/static/js/main.b189c1d8.js",
+    "static/media/me-about.png": "/portfolio/static/media/me-about.662205d5aac759a0c21d.png",
+    "static/media/mine.png": "/portfolio/static/media/mine.eef97f2e5a12b348dd7d.png",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Muzamil-CV.pdf": "/portfolio/static/media/Muzamil-CV.a5ec0c202f3a3cc1ba6a.pdf",
+    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.be367c33.css.map": "/portfolio/static/css/main.be367c33.css.map",
+    "main.b189c1d8.js.map": "/portfolio/static/js/main.b189c1d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be367c33.css",
+    "static/js/main.b189c1d8.js"
+  ]
+}
